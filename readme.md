@@ -1,36 +1,40 @@
+# 🎯 Back-End Development
 
-# Back end development
-- [Airbnb](https://github.com/iramamy/AirBnbBackend) In progress....
-- [Rest Recipe API](https://github.com/iramamy/REST)
-- [Multi vendor e-commerce system](https://github.com/iramamy/Ecommerce)
-- [Recommender system](https://github.com/iramamy/RecommenderSystem)
-- [Furniture store](https://github.com/iramamy/FurnitureStore)
-- [Flight services](https://github.com/iramamy/FlightReservation)
+- 🚧 [Airbnb](https://github.com/iramamy/AirBnbBackend) _(In Progress...)_
+- 🍲 [Rest Recipe API](https://github.com/iramamy/REST)
+- 🛒 [Multi-Vendor E-commerce System](https://github.com/iramamy/Ecommerce)
+- 🎥 [Recommender System](https://github.com/iramamy/RecommenderSystem)
+- 🪑 [Furniture Store](https://github.com/iramamy/FurnitureStore)
+- ✈️ [Flight Services](https://github.com/iramamy/FlightReservation)
 
-# Computer vision
-- [Multiple zone counter 2.0](https://github.com/iramamy/MultipleZoneCounter2.0)
-- [Multiple zone counter](https://github.com/iramamy/MultipleZoneCounter)
-- [Tennis court zone](https://github.com/iramamy/TennisCourtZone)
-- [Tennis court key-points](https://github.com/iramamy/TennisCourtKeypoints)
-- [Face distance](https://github.com/iramamy/FaceDistance)
-- [Parking lot ](https://github.com/iramamy/ParkingLot)
-- [Camel tracking](https://github.com/iramamy/Camel-tracking)
-- [Image denoising](https://github.com/iramamy/ImageDenoising)
-- [Traffic sign classification](https://github.com/iramamy/Trafficsign)
+# 👁️ Computer Vision
 
-# Front end development
-- [Admin dashboard](https://github.com/iramamy/Admin)  in progress ...
-- [Airbnb](https://github.com/iramamy/AirBnb) in progress ...
-- [Job portal](https://github.com/iramamy/JobPortal)  in progress ...
-- [Socialize](https://iramamy.github.io/Socialize)
-- [Blogy](https://iramamy.github.io/Blogy/)
-- [Vera software](https://iramamy.github.io/Vera)
-- [Yavin](https://iramamy.github.io/Yavin/)
-- [Portfolio template](https://iramamy.github.io/PortfolioTemplate/)
-- [Corso website](https://iramamy.github.io/Corso/)
-- [Ebook](https://iramamy.github.io/Ebook/)
-# Data science/Machine learning
-- [Speech to text](https://github.com/iramamy/SpeechToText)
-- [E-commerce chat bot](https://github.com/iramamy/ChatBot)
-- [Mushroom classification](https://github.com/iramamy/Mushroom-Classification)
-- [Car price prediction](https://github.com/iramamy/CarPrice)
+- 🎯 [Multiple Zone Counter 2.0](https://github.com/iramamy/MultipleZoneCounter2.0)
+- 🧮 [Multiple Zone Counter](https://github.com/iramamy/MultipleZoneCounter)
+- 🎾 [Tennis Court Zone](https://github.com/iramamy/TennisCourtZone)
+- 🎾 [Tennis Court Key-Points](https://github.com/iramamy/TennisCourtKeypoints)
+- 📏 [Face Distance](https://github.com/iramamy/FaceDistance)
+- 🅿️ [Parking Lot](https://github.com/iramamy/ParkingLot)
+- 🐪 [Camel Tracking](https://github.com/iramamy/Camel-tracking)
+- 🎨 [Image Denoising](https://github.com/iramamy/ImageDenoising)
+- 🚦 [Traffic Sign Classification](https://github.com/iramamy/Trafficsign)
+
+# 🎨 Front-End Development
+
+- 📊 [Admin Dashboard](https://github.com/iramamy/Admin) _(In Progress...)_
+- 🏡 [Airbnb](https://github.com/iramamy/AirBnb) _(In Progress...)_
+- 💼 [Job Portal](https://github.com/iramamy/JobPortal) _(In Progress...)_
+- 👥 [Socialize](https://iramamy.github.io/Socialize) _(In Progress...)_
+- 📝 [Blogy](https://iramamy.github.io/Blogy/)
+- 💻 [Vera Software](https://iramamy.github.io/Vera)
+- 🏙️ [Yavin](https://iramamy.github.io/Yavin/)
+- 🎨 [Portfolio Template](https://iramamy.github.io/PortfolioTemplate/)
+- 🌐 [Corso Website](https://iramamy.github.io/Corso/)
+- 📚 [Ebook](https://iramamy.github.io/Ebook/)
+
+# 📊 Data Science / Machine Learning
+
+- 🎙️ [Speech to Text](https://github.com/iramamy/SpeechToText)
+- 🤖 [E-commerce Chat Bot](https://github.com/iramamy/ChatBot)
+- 🍄 [Mushroom Classification](https://github.com/iramamy/Mushroom-Classification)
+- 🚗 [Car Price Prediction](https://github.com/iramamy/CarPrice)
