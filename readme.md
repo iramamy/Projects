@@ -21,9 +21,9 @@
 
 # 🎨 Front-End Development
 
-- 📊 [Admin Dashboard](https://github.com/iramamy/Admin) _(In Progress...)_
+- 📊 [Admin Dashboard](https://github.com/iramamy/Admin)
 - 🏡 [Airbnb](https://github.com/iramamy/AirBnb) _(In Progress...)_
-- 💼 [Job Portal](https://github.com/iramamy/JobPortal) _(In Progress...)_
+- 💼 [Job Portal](https://github.com/iramamy/JobPortal)
 - 👥 [Socialize](https://iramamy.github.io/Socialize) _(In Progress...)_
 - 📝 [Blogy](https://iramamy.github.io/Blogy/)
 - 💻 [Vera Software](https://iramamy.github.io/Vera)
@@ -38,3 +38,4 @@
 - 🤖 [E-commerce Chat Bot](https://github.com/iramamy/ChatBot)
 - 🍄 [Mushroom Classification](https://github.com/iramamy/Mushroom-Classification)
 - 🚗 [Car Price Prediction](https://github.com/iramamy/CarPrice)
+- 🌌 [Exoplanets](https://github.com/iramamy/Exoplanets)
