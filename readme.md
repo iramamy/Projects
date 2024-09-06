@@ -34,11 +34,11 @@
 
 # 📊 Data Science / Machine Learning
 
-- 🦜 [Bird call identification](https://github.com/iramamy/DL-for-Ecology)
 - 🎙️ [Speech to Text](https://github.com/iramamy/SpeechToText)
 - 🤖 [E-commerce Chat Bot](https://github.com/iramamy/ChatBot)
 - 🍄 [Mushroom Classification](https://github.com/iramamy/Mushroom-Classification)
 - 🚗 [Car Price Prediction](https://github.com/iramamy/CarPrice)
 - 🌌 [Exoplanets](https://github.com/iramamy/Exoplanets)
 - 🐢 [GreeTurtle](https://github.com/iramamy/GreenTrurtle)
+- 🦜 [Bird call identification](https://github.com/iramamy/DL-for-Ecology)
 - 🔢 [MNIST](https://github.com/iramamy/MNIST)
