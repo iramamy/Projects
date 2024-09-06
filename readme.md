@@ -34,6 +34,7 @@
 
 # 📊 Data Science / Machine Learning
 
+- 🦜 [Bird call identification](https://github.com/iramamy/DL-for-Ecology)
 - 🎙️ [Speech to Text](https://github.com/iramamy/SpeechToText)
 - 🤖 [E-commerce Chat Bot](https://github.com/iramamy/ChatBot)
 - 🍄 [Mushroom Classification](https://github.com/iramamy/Mushroom-Classification)
