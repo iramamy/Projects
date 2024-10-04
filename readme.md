@@ -1,6 +1,6 @@
 # 🎯 Back-End Development
 
-- 🚧 [Airbnb](https://github.com/iramamy/AirBnbBackend) _(In Progress...)_
+- 🚧 [Airbnb](https://github.com/iramamy/AirBnbBackend)
 - 🍲 [Rest Recipe API](https://github.com/iramamy/REST)
 - 🛒 [Multi-Vendor E-commerce System](https://github.com/iramamy/Ecommerce)
 - 🎥 [Recommender System](https://github.com/iramamy/RecommenderSystem)
@@ -21,8 +21,10 @@
 
 # 🎨 Front-End Development
 
+- 🎓 [School Management Dashboard](https://github.com/iramamy/School-Management-Dashboard)
+- 🏥 [Doctor Appointment](https://github.com/iramamy/DoctorAppointment)
 - 📊 [Admin Dashboard](https://github.com/iramamy/Admin)
-- 🏡 [Airbnb](https://github.com/iramamy/AirBnb) _(In Progress...)_
+- 🏡 [Airbnb](https://github.com/iramamy/AirBnb)
 - 💼 [Job Portal](https://github.com/iramamy/JobPortal)
 - 👥 [Socialize](https://iramamy.github.io/Socialize) _(In Progress...)_
 - 📝 [Blogy](https://iramamy.github.io/Blogy/)
